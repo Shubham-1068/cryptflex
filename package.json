@@ -1,8 +1,17 @@
 {
   "name": "cryptflex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A flexible, modern password hashing library with pluggable backends",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-1068/cryptflex.git"
+  },
+  "homepage": "https://github.com/Shubham-1068/cryptflex#readme",
+  "bugs": {
+    "url": "https://github.com/Shubham-1068/cryptflex/issues"
+  },
+  "author": "Shubham",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"

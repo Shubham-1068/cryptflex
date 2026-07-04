@@ -1,5 +1,7 @@
 # cryptflex
 
+[GitHub Repository](https://github.com/Shubham-1068/cryptflex)
+
 [![npm version](https://img.shields.io/npm/v/cryptflex.svg)](https://www.npmjs.com/package/cryptflex)
 [![License: MIT](https://img.shields.io/npm/l/cryptflex.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/node/v/cryptflex.svg)](https://nodejs.org)
@@ -224,14 +226,14 @@ console.log('Hash length:', info.hash.length); // Varies by backend
 
 ## License
 
-MIT © 2026 cryptflex contributors
+MIT © 2026 Shubham
 
 ## Support
 
 If you find this library useful, please consider:
-- Giving it a ⭐️ on GitHub
+- Giving it a ⭐️ on GitHub: https://github.com/Shubham-1068/cryptflex
 - Sharing it with colleagues
-- Contributing improvements or reporting issues
+- Contributing improvements or reporting issues: https://github.com/Shubham-1068/cryptflex/issues
 
 ---
 
